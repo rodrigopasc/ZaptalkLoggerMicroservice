@@ -5,7 +5,7 @@
 </p>
 
 Fake logger microservice example.
-> This _event-driven_ microservice is just a mock that represents a lopgger service. 🦶
+> This _event-driven_ microservice is just a mock that represents a logger service. 🦶
 
 <p align="center">
   <img src="https://rodrigotestssizeless.s3.amazonaws.com/uploads/architecture-design-logger.png" alt="Architecture Design" />
